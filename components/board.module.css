@@ -1,0 +1,10 @@
+.firstCell{
+    border-right: 5px solid white;
+    border-bottom: 5px solid white;
+}
+.lastCell{
+    border-bottom: 5px solid white;
+}
+.lastColCell{
+    border-right: 5px solid white;
+}
